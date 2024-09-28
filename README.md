@@ -1,3 +1,7 @@
+Donations gratuit ici merci pour ce qu'il le feront :https://www.clictune.com/kbfH
+tu a juste a clique sur la pub et quiter la page
+
+
 1 : Entrez une valeur (ex: décimal, hexadécimal, binaire) :
 
 EX : 255 
